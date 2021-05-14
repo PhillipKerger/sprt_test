@@ -1,7 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-Created on Mon Jan 25 17:38:24 2021
-
+Code to test SPRT versus averaging loss function samples!
 @author: phillips_pc
 """
 
