@@ -39,7 +39,7 @@ def main():
     
     #SPRT hyperparameters 
     maxdraws = evals  #optional argument to allow a max draw number, or set to evals
-    alpha = 0.1   #alpha value 
+    alpha = 0.1   #alpha value (fixed here for simplicity, but may want to take descreasing sequence instead!)
     beta = 0.3   #beta value 
     
     A = np.log((1-beta)/alpha) #corresponding A, B values 
