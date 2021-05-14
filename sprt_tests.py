@@ -5,9 +5,7 @@ Code to test SPRT versus averaging loss function samples!
 
 import numpy as np
 from time import time 
-from matplotlib import pyplot as plt 
-from numpy import random as rand 
-from scipy import stats 
+from numpy import random as rand  
 from scipy import linalg
 #from numba import prange, jit
 #averaging schedule. May want to make more sophisticated. 
